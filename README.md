@@ -1,8 +1,12 @@
 # Cstick-Fall-Detection
 
 <h2>Description</h2>
+Fall Detection using Cstick data
+<br />
 Analyzed 2,040 instances of falls in elderly patients
+<br />
 Ran XGBoosted model to predict likelihood of a fall and fall severity
+<br />
 Produced 96% accuracy with no false negatives
 <br />
 
